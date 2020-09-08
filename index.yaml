@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mailtrap:
+  - apiVersion: v2
+    appVersion: "2.3"
+    created: "2020-09-08T09:06:56.894682-04:00"
+    description: Mailtrap Helm chart for Kubernetes
+    digest: e0ccd10681a58e20007f5b3ae76e15e1d6205ca0cd291ba3718cc2416525ed83
+    name: mailtrap
+    type: application
+    urls:
+    - mailtrap-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-09-08T09:06:56.893675-04:00"
