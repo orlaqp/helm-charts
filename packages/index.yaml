@@ -3,14 +3,12 @@ entries:
   mailtrap:
   - apiVersion: v2
     appVersion: "2.3"
-    created: "2020-09-08T09:15:08.738786-04:00"
+    created: "2020-09-08T09:42:58.777379-04:00"
     description: Mailtrap Helm chart for Kubernetes
     digest: e0ccd10681a58e20007f5b3ae76e15e1d6205ca0cd291ba3718cc2416525ed83
     name: mailtrap
     type: application
-    sources:
-    - https://github.com/orlaqp/helm-charts/tree/master/src/mailtrap
     urls:
-    - https://github.com/orlaqp/helm-charts/raw/master/charts/mailtrap-0.1.0.tgz
+    - https://orlaqp.github.io/helm-charts/mailtrap-0.1.0.tgz
     version: 0.1.0
-generated: "2020-09-08T09:15:08.737472-04:00"
+generated: "2020-09-08T09:42:58.776131-04:00"
